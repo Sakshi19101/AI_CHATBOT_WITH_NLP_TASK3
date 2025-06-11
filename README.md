@@ -6,4 +6,4 @@ DOMIAN : PYTHON PROGRAMMING
 DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH KUMAR
 
-OUTPUT : 
+OUTPUT : ![Image](https://github.com/user-attachments/assets/90a6bf73-e4d7-4bad-82ae-046384a0ac25)
